@@ -1,0 +1,16 @@
+#
+# Project Name: Merit Badge Counselor List Generator
+#
+# Collect MB lists from council website and print them, based on Zipcode
+#
+# Main Program: mbclg.pl
+#
+# Merit Badge Titles: mbTitle.dat
+#
+# Merit badge List full : mbTitle.dat.master
+# Merit Badge List Short: mbTitle.dat.short
+#
+# Zip codes for our Troop : mbZipCodes.lis
+#
+# This File : README
+#
